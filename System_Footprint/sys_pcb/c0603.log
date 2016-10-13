@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : c0603.dra                                     )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Fri Sep 25 10:30:22 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/System_Footprint/sys_pcb
+    Name      = c0603.psm
+    User      = HUIYUANLZJ
+    Machine   = HUIYUANLZJ-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

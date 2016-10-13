@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TDA7492MV.dra                                 )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Wed Dec 16 09:47:19 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = tda7492mv.psm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

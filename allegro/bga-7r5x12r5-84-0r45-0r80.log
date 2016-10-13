@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : BGA-7R5X12R5-84-0r45-0R80.dra                 )
+(    Software Version : 16.6-2015S054                                 )
+(    Date/Time        : Sat Sep 19 11:07:01 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = bga-7r5x12r5-84-0r45-0r80.psm
+    User      = HUIYUANLZJ
+    Machine   = HUIYUANLZJ-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

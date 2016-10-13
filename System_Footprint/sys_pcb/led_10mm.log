@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED_10MM.dra                                  )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Wed Nov 04 19:04:09 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/System_Footprint/sys_pcb
+    Name      = led_10mm.psm
+    User      = HUIYUANLZJ
+    Machine   = HUIYUANLZJ-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

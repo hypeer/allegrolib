@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DISCOVERY-F030.dra                            )
+(    Software Version : 16.6-2015S060                                 )
+(    Date/Time        : Sat Nov 07 15:35:54 2015                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = discovery-f030.psm
+    User      = HUIYUANLZJ
+    Machine   = HUIYUANLZJ-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SDCARD.dra                                    )
+(    Software Version : 16.6-2015S064                                 )
+(    Date/Time        : Thu Mar 17 20:05:11 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = sdcard.psm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

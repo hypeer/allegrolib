@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOIC14.dra                                    )
+(    Software Version : 16.6-2015S071                                 )
+(    Date/Time        : Fri Jul 08 10:21:38 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = soic14.psm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

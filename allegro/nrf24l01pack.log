@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : NRF24L01PACK.dra                              )
+(    Software Version : 16.6-2015S071                                 )
+(    Date/Time        : Sun Sep 18 16:51:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/CadenceLib/allegro
+    Name      = nrf24l01pack.psm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

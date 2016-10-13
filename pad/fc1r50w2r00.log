@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FC1R50W2R00.dra                               )
+(    Software Version : 16.6-2015S071                                 )
+(    Date/Time        : Mon Oct 10 10:38:10 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: FLASH
+    Directory = E:/CadenceLib/pad
+    Name      = fc1r50w2r00.fsm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

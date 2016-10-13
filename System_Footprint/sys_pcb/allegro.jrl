@@ -1,0 +1,94 @@
+\t (00:00:01) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:01)     Journal start - Fri Sep 30 13:48:23 2016
+\t (00:00:01)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=5784 CPUs=4
+\t (00:00:01) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\CadenceLib\System_Footprint\sys_pcb\cc0603.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/CadenceLib/System_Footprint/sys_pcb/cc0603.dra
+\i (00:00:05) trapsize 593
+\i (00:00:05) trapsize 580
+\i (00:00:05) trapsize 595
+\i (00:00:05) trapsize 608
+\i (00:00:05) trapsize 977
+\i (00:00:06) generaledit 
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in -26.496 24.671
+\i (00:00:07) trapsize 489
+\t (00:00:07) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out -36.464 -21.459
+\i (00:00:07) trapsize 977
+\i (00:00:10) setwindow form.mini
+\i (00:00:10) FORM mini subclass SOLDERMASK_TOP 
+\i (00:00:11) FORM mini subcolor 0 
+\i (00:00:12) FORM mini subcolor 1 
+\i (00:00:12) FORM mini subcolor 0 
+\i (00:00:13) FORM mini subcolor 1 
+\i (00:00:13) FORM mini subcolor 0 
+\i (00:00:14) FORM mini subcolor 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) pick grid 105.053 -21.068
+\t (00:00:15) last pick:  105.000 -20.000
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 9.861 8.056
+\i (00:00:15) trapsize 1955
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -26.105 -21.654
+\i (00:00:17) trapsize 977
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -9.099 -4.257
+\i (00:00:17) trapsize 489
+\i (00:00:20) grid toggle 
+\i (00:00:20) generaledit 
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -4.701 3.073
+\i (00:00:22) trapsize 977
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -3.724 4.051
+\i (00:00:22) trapsize 1955
+\i (00:00:22) zoom out 1 
+\i (00:00:22) setwindow pcb
+\i (00:00:22) zoom out -2.551 6.005
+\i (00:00:22) trapsize 3909
+\i (00:00:23) grid toggle 
+\i (00:00:23) generaledit 
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -36.954 -26.051
+\i (00:00:24) trapsize 1955
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -36.953 -26.051
+\i (00:00:24) trapsize 977
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in -29.135 13.238
+\i (00:00:24) trapsize 489
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -48.681 -0.054
+\i (00:00:33) trapsize 977
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out -46.335 0.142
+\i (00:00:33) trapsize 1955
+\i (00:00:36) setwindow form.mini
+\i (00:00:36) FORM mini class PIN 
+\i (00:00:37) FORM mini subcolor 0 
+\i (00:00:38) FORM mini subcolor 1 
+\i (00:00:38) FORM mini subcolor 0 
+\i (00:00:39) FORM mini subcolor 1 
+\i (00:00:39) FORM mini subcolor 0 
+\i (00:02:36) setwindow pcb
+\i (00:02:36) exit 
+\e (00:02:36) Do you want to save the changes you made to cc0603.dra?
+\i (00:02:37) fillin no 
+\t (00:02:37)     Journal end - Fri Sep 30 13:50:59 2016

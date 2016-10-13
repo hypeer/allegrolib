@@ -1,0 +1,74 @@
+\t (00:01:50) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:01:50)     Journal start - Mon Oct 10 10:36:28 2016
+\t (00:01:50)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=1316 CPUs=4
+\t (00:01:50) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:01:50) 
+\t (00:01:50) Starting new design...
+\i (00:01:50) trapsize 2199
+\i (00:01:50) trapsize 2199
+\i (00:01:50) generaledit 
+   (00:01:52) function EDA365_Report_NoRefdes redefined
+   (00:01:52) function EDA365_ReportSinglePin redefined
+\t (00:01:52) >>EDA365 Skill V2.3 加载成功!
+\i (00:02:03) prmed 
+\i (00:02:05) setwindow form.prmedit
+\i (00:02:05) FORM prmedit design  
+\i (00:02:17) FORM prmedit cancel  
+\i (00:02:17) setwindow pcb
+\i (00:02:17) generaledit 
+\i (00:02:20) add flash 
+   (00:02:20) Loading cmds.cxt 
+\i (00:02:31) setwindow form.thermflash
+\i (00:02:31) FORM thermflash indiam 1.5000 
+\i (00:02:33) FORM thermflash outdia 2.0000 
+\i (00:02:58) FORM thermflash spkwdth 0.4000 
+\i (00:02:58) FORM thermflash done  
+\i (00:02:58) setwindow pcb
+\i (00:02:58) generaledit 
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in -0.6014 0.2784
+\i (00:02:59) trapsize 1100
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in -2.4543 0.2784
+\i (00:02:59) trapsize 550
+\i (00:02:59) zoom in 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom in -2.4103 0.3114
+\i (00:02:59) trapsize 275
+\i (00:03:00) zoom in 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom in 0.4489 0.2234
+\i (00:03:00) trapsize 137
+\i (00:03:00) zoom out 1 
+\i (00:03:00) setwindow pcb
+\i (00:03:00) zoom out -0.6068 0.0420
+\i (00:03:00) trapsize 275
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 0.0970 0.1849
+\i (00:03:01) trapsize 137
+\i (00:03:03) zoom out 1 
+\i (00:03:03) setwindow pcb
+\i (00:03:03) zoom out 0.0777 0.1795
+\i (00:03:03) trapsize 275
+\i (00:03:04) zoom in 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom in 0.0723 -0.2439
+\i (00:03:04) trapsize 137
+\i (00:03:23) save_as 
+\i (00:03:26) fillin "menu_cancel"
+\i (00:03:26) generaledit 
+\i (00:03:27) EDA365_Open 
+\e (00:03:27) Do you want to save the changes you made to FC1R50W2R00.dra?
+\i (00:03:29) fillin menu_cancel 
+\i (00:03:29) generaledit 
+\i (00:03:30) save 
+\t (00:03:33) Symbol 'fc1r50w2r00.fsm' created.
+   (00:03:33) function EDA365_Report_NoRefdes redefined
+   (00:03:33) function EDA365_ReportSinglePin redefined
+\t (00:03:33) >>EDA365 Skill V2.3 加载成功!
+\i (00:03:33) generaledit 
+\i (00:03:36) exit 
+\t (00:03:36)     Journal end - Mon Oct 10 10:38:14 2016

@@ -1,0 +1,282 @@
+\t (00:46:57) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:46:57)     Journal start - Tue Oct 11 20:46:55 2016
+\t (00:46:57)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=3868 CPUs=4
+\t (00:46:57) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe G:\HUIYUAN COMMUNICATION\13云台交换机\CADENCE\STEP_TEST_V10A\PCB\STEP_TEST_V10A.brd
+\t (00:46:57) 
+\t (00:46:57) Starting new design...
+\i (00:46:58) trapsize 23694
+\i (00:46:58) trapsize 22658
+\i (00:46:58) trapsize 23389
+\i (00:46:58) trapsize 23389
+\i (00:46:58) trapsize 23389
+\i (00:46:58) generaledit 
+\i (00:47:00) prmed 
+\e (00:47:01) Finish current command first.
+\i (00:47:01) setwindow form.prmedit
+\i (00:47:01) FORM prmedit design  
+\e (00:47:06) Finish current command first.
+\e (00:47:11) Finish current command first.
+\i (00:47:16) FORM prmedit done  
+\i (00:47:16) setwindow pcb
+\i (00:47:16) generaledit 
+   (00:47:17) function EDA365_Report_NoRefdes redefined
+   (00:47:17) function EDA365_ReportSinglePin redefined
+\t (00:47:17) >>EDA365 Skill V2.3 加载成功!
+\i (00:47:18) zoom out 1 
+\i (00:47:18) setwindow pcb
+\i (00:47:18) zoom out 87.1926 23.5757
+\i (00:47:18) trapsize 23389
+\i (00:47:19) zoom in 1 
+\i (00:47:19) setwindow pcb
+\i (00:47:19) zoom in -10.1039 -7.2972
+\i (00:47:19) trapsize 11694
+\i (00:47:19) zoom in 1 
+\i (00:47:19) setwindow pcb
+\i (00:47:19) zoom in -10.1038 23.3418
+\i (00:47:19) trapsize 5847
+\i (00:47:20) grid toggle 
+\i (00:47:21) generaledit 
+\i (00:47:21) grid toggle 
+\i (00:47:21) generaledit 
+\i (00:47:23) define grid 
+\t (00:47:23) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:47:23) generaledit 
+\i (00:47:24) setwindow form.grid
+\i (00:47:24) FORM grid non_etch non_etch_x_grids 0.1 
+\i (00:47:25) FORM grid non_etch non_etch_y_grids 0.1 
+\i (00:47:26) FORM grid all_etch all_etch_x_grids 0.1 
+\i (00:47:27) FORM grid all_etch all_etch_y_grids 0.1 
+\i (00:47:27) FORM grid done  
+\i (00:47:28) setwindow pcb
+\i (00:47:28) zoom in 1 
+\i (00:47:28) setwindow pcb
+\i (00:47:28) zoom in -0.1636 -4.9584
+\i (00:47:28) trapsize 2924
+\i (00:47:28) zoom in 1 
+\i (00:47:28) setwindow pcb
+\i (00:47:28) zoom in -1.0407 -2.9118
+\i (00:47:28) trapsize 1462
+\i (00:47:29) zoom in 1 
+\i (00:47:29) setwindow pcb
+\i (00:47:29) zoom in -0.6022 -1.4207
+\i (00:47:29) trapsize 731
+\i (00:47:29) zoom in 1 
+\i (00:47:29) setwindow pcb
+\i (00:47:29) zoom in -0.3975 -1.2892
+\i (00:47:29) trapsize 365
+\i (00:47:29) zoom in 1 
+\i (00:47:29) setwindow pcb
+\i (00:47:29) zoom in -0.3902 -1.2745
+\i (00:47:29) trapsize 183
+\i (00:47:30) zoom in 1 
+\i (00:47:30) setwindow pcb
+\i (00:47:30) zoom in -0.0284 0.0776
+\i (00:47:30) trapsize 91
+\i (00:47:30) zoom out 1 
+\i (00:47:30) setwindow pcb
+\i (00:47:30) zoom out -0.0248 -0.0539
+\i (00:47:30) trapsize 183
+\i (00:47:57) shape add 
+\i (00:49:51) pick 0 4.3 
+\t (00:49:51) last pick:  0.0000 4.3000
+\i (00:49:53) zoom out 1 
+\i (00:49:53) setwindow pcb
+\i (00:49:53) zoom out 1.0461 -0.4084
+\i (00:49:53) trapsize 365
+\i (00:49:53) zoom out 1 
+\i (00:49:53) setwindow pcb
+\i (00:49:53) zoom out 0.6367 -0.8980
+\i (00:49:53) trapsize 731
+\i (00:49:53) zoom out 1 
+\i (00:49:53) setwindow pcb
+\i (00:49:53) zoom out 0.3590 -1.3074
+\i (00:49:53) trapsize 1462
+\i (00:49:54) zoom out 1 
+\i (00:49:54) setwindow pcb
+\i (00:49:54) zoom out 0.2421 -1.4535
+\i (00:49:54) trapsize 2924
+\i (00:49:55) zoom in 1 
+\i (00:49:55) setwindow pcb
+\i (00:49:55) zoom in 6.6741 6.9664
+\i (00:49:55) trapsize 1462
+\i (00:49:55) zoom out 1 
+\i (00:49:55) setwindow pcb
+\i (00:49:55) zoom out 1.4116 2.5810
+\i (00:49:55) trapsize 2924
+\i (00:49:55) zoom out 1 
+\i (00:49:55) setwindow pcb
+\i (00:49:55) zoom out -8.3533 1.2947
+\i (00:49:55) trapsize 5847
+\i (00:49:56) zoom in 1 
+\i (00:49:56) setwindow pcb
+\i (00:49:56) zoom in 6.7326 5.3878
+\i (00:49:56) trapsize 2924
+\i (00:49:59) ipick 3.1 
+\t (00:49:59) last pick:  3.1000 4.3000
+\i (00:50:03) ipick 0 -4.3 
+\t (00:50:03) last pick:  3.1000 0.0000
+\i (00:50:07) ipick 9.8 
+\t (00:50:07) last pick:  12.9000 0.0000
+\i (00:50:09) ipick 0 4.3 
+\t (00:50:09) last pick:  12.9000 4.3000
+\i (00:50:12) ipick 3.1 
+\t (00:50:12) last pick:  16.0000 4.3000
+\i (00:50:15) ipick 0 2.9 
+\t (00:50:15) last pick:  16.0000 7.2000
+\i (00:50:19) ipick -3.1 
+\t (00:50:19) last pick:  12.9000 7.2000
+\i (00:50:22) ipick 0 4.3 
+\t (00:50:22) last pick:  12.9000 11.5000
+\i (00:50:25) ipick -9.8 
+\t (00:50:25) last pick:  3.1000 11.5000
+\i (00:51:15) oops 
+\t (00:51:15) last pick:  12.9000 11.5000
+\i (00:51:15) oops 
+\t (00:51:15) last pick:  12.9000 7.2000
+\i (00:51:16) oops 
+\t (00:51:16) last pick:  16.0000 7.2000
+\i (00:51:16) oops 
+\t (00:51:16) last pick:  16.0000 4.3000
+\i (00:51:16) oops 
+\t (00:51:16) last pick:  12.9000 4.3000
+\i (00:51:16) oops 
+\t (00:51:16) last pick:  12.9000 0.0000
+\i (00:51:17) oops 
+\t (00:51:17) last pick:  3.1000 0.0000
+\i (00:51:17) oops 
+\t (00:51:17) last pick:  3.1000 4.3000
+\i (00:51:18) oops 
+\t (00:51:18) last pick:  0.0000 4.3000
+\i (00:51:20) oops 
+\i (00:51:23) pick 0 1.7 
+\t (00:51:23) last pick:  0.0000 1.7000
+\i (00:51:26) ipick 3.1 
+\t (00:51:26) last pick:  3.1000 1.7000
+\i (00:51:29) ipick 0 -1.7 
+\t (00:51:29) last pick:  3.1000 0.0000
+\i (00:51:32) ipick 9.8 
+\t (00:51:32) last pick:  12.9000 0.0000
+\i (00:51:34) ipick 0 1.7 
+\t (00:51:34) last pick:  12.9000 1.7000
+\i (00:51:38) ipick 3.1 
+\t (00:51:38) last pick:  16.0000 1.7000
+\i (00:51:42) ipick 0 2.9 
+\t (00:51:42) last pick:  16.0000 4.6000
+\i (00:51:45) ipick -3.1 
+\t (00:51:45) last pick:  12.9000 4.6000
+\i (00:51:49) ipick 0 1.7 
+\t (00:51:49) last pick:  12.9000 6.3000
+\i (00:51:51) ipick -9.8 
+\t (00:51:51) last pick:  3.1000 6.3000
+\i (00:51:55) ipick 0 -1.7 
+\t (00:51:55) last pick:  3.1000 4.6000
+\i (00:51:58) ipick -3.1 
+\t (00:51:58) last pick:  0.0000 4.6000
+\i (00:52:03) ipick 0 -2.9 
+\t (00:52:03) last pick:  0.0000 1.7000
+\i (00:52:05) prepopup 12.3460 15.5035
+\i (00:52:05) done 
+\i (00:52:05) generaledit 
+\i (00:52:06) zoom in 1 
+\i (00:52:06) setwindow pcb
+\i (00:52:06) zoom in -3.8508 -2.1551
+\i (00:52:06) trapsize 1462
+\i (00:52:26) pick grid 17.0238 -0.1378
+\t (00:52:26) last pick:  17.0000 -0.1000
+\i (00:52:33) move #移动物体 
+\t (00:52:33) Select element(s) to move.
+\i (00:52:34) pick grid 10.0363 1.8503
+\t (00:52:34) last pick:  10.0000 1.9000
+\t (00:52:34) last pick:  10.0000 1.9000
+\t (00:52:34) Element has no origin, using pick.
+\t (00:52:34) Pick new location for the element(s).
+\i (00:52:41) ipick -8 -3.15 
+\t (00:52:41) last pick:  2.0000 -1.2500
+\i (00:52:41) done 
+\i (00:52:42) generaledit 
+\i (00:53:07) save_as 
+\i (00:53:19) fillin "POWERS020-PAD-P.dra"
+\t (00:53:20) Symbol 'powers020-pad-p.ssm' created.
+\i (00:53:20) generaledit 
+\i (00:53:22) pick grid 1.1486 6.2942
+\t (00:53:22) last pick:  1.1000 6.3000
+\i (00:53:24) zcopy shape 
+\e (00:53:24) This command is disabled and cannot be run at this time.
+\i (00:53:28) pick grid 7.9606 0.1838
+\t (00:53:28) last pick:  8.0000 0.2000
+\i (00:53:29) prepopup 9.8902 6.0018
+\i (00:53:30) pick grid 10.0071 8.7500
+\t (00:53:30) last pick:  10.0000 8.8000
+\i (00:53:30) pick grid dbl 10.0071 8.7500
+\t (00:53:30) last pick:  10.0000 8.8000
+\i (00:53:30) pick grid 9.9779 8.8085
+\t (00:53:30) last pick:  10.0000 8.8000
+\i (00:53:30) pick grid dbl 9.9779 8.8085
+\t (00:53:30) last pick:  10.0000 8.8000
+\i (00:53:31) pick grid 9.9779 8.8085
+\t (00:53:31) last pick:  10.0000 8.8000
+\i (00:53:33) zcopy shape 
+\e (00:53:33) This command is disabled and cannot be run at this time.
+\i (00:53:35) generaledit 
+\i (00:53:35) generaledit 
+\i (00:53:35) generaledit 
+\i (00:53:37) zcopy shape 
+\e (00:53:37) This command is disabled and cannot be run at this time.
+\i (00:53:40) pick grid 5.7094 -1.3949
+\t (00:53:40) last pick:  5.7000 -1.4000
+\i (00:53:41) pick grid 9.0423 4.1015
+\t (00:53:41) last pick:  9.0000 4.1000
+\i (00:53:42) prepopup 8.0483 6.0018
+\i (00:53:43) pick grid 6.3233 8.1361
+\t (00:53:43) last pick:  6.3000 8.1000
+\i (00:53:43) pick grid dbl 6.3233 8.1361
+\t (00:53:43) last pick:  6.3000 8.1000
+\i (00:53:50) prmed 
+\i (00:53:52) setwindow form.prmedit
+\i (00:53:52) FORM prmedit type Package 
+\i (00:53:54) FORM prmedit done  
+\i (00:53:54) setwindow pcb
+\i (00:53:54) generaledit 
+\i (00:53:56) zcopy shape 
+\t (00:53:56) Select cline, shape, rectangle or closed polygon.
+   (00:53:56) Loading cmds.cxt 
+\i (00:53:58) setwindow form.mini
+\i (00:53:58) FORM mini expand YES 
+\i (00:54:00) FORM mini offset 0.1000 
+\i (00:54:03) setwindow pcb
+\i (00:54:03) zoom in 1 
+\i (00:54:03) setwindow pcb
+\i (00:54:03) zoom in 5.6509 -1.4534
+\i (00:54:03) trapsize 731
+\i (00:54:03) zoom in 1 
+\i (00:54:03) setwindow pcb
+\i (00:54:03) zoom in 5.6509 -1.4533
+\i (00:54:03) trapsize 365
+\i (00:54:05) pick 6.2722 -1.4460
+\t (00:54:05) last pick:  6.2722 -1.4460
+\i (00:54:10) done 
+\i (00:54:10) generaledit 
+\i (00:54:13) pick grid 7.9241 1.4264
+\t (00:54:13) last pick:  7.9000 1.4000
+\i (00:54:14) delete 
+\i (00:54:14) generaledit 
+\i (00:54:15) prmed 
+\i (00:54:17) setwindow form.prmedit
+\i (00:54:17) FORM prmedit type Shape 
+\i (00:54:18) FORM prmedit done  
+\i (00:54:18) setwindow pcb
+\i (00:54:18) generaledit 
+\i (00:54:19) zoom out 1 
+\i (00:54:19) setwindow pcb
+\i (00:54:19) zoom out 7.4563 0.4763
+\i (00:54:19) trapsize 731
+\i (00:54:19) zoom out 1 
+\i (00:54:19) setwindow pcb
+\i (00:54:19) zoom out 7.4709 0.4762
+\i (00:54:19) trapsize 1462
+\i (00:54:21) save_as 
+\i (00:54:27) fillin "POWERS020-PAD-S.dra"
+\t (00:54:30) Symbol 'powers020-pad-s.ssm' created.
+\i (00:54:30) generaledit 
+\i (00:54:35) exit 
+\t (00:54:35)     Journal end - Tue Oct 11 20:54:33 2016

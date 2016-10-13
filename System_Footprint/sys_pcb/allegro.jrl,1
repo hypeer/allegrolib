@@ -1,0 +1,37 @@
+\t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:00)     Journal start - Mon Sep 12 10:11:58 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=6656 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\CadenceLib\System_Footprint\sys_pcb\header23x2.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: E:/CadenceLib/System_Footprint/sys_pcb/header23x2.dra
+\i (00:00:02) trapsize 4346
+\i (00:00:02) trapsize 4185
+\i (00:00:02) trapsize 4374
+\i (00:00:03) trapsize 4550
+\i (00:00:03) trapsize 4550
+\i (00:00:03) generaledit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 52.7223 -0.0056
+\i (00:00:06) trapsize 2275
+\t (00:00:06) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 45.0330 2.7699
+\i (00:00:06) trapsize 4550
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 54.2238 0.1764
+\i (00:00:07) trapsize 6711
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 3.5664 1.4534
+\i (00:00:08) trapsize 3356
+\i (00:00:09) zoom out 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom out 9.8080 9.9770
+\i (00:00:09) trapsize 6711
+\i (00:00:11) exit 
+\t (00:00:12)     Journal end - Mon Sep 12 10:12:09 2016

@@ -1,0 +1,209 @@
+\t (00:00:00) allegro_librarian 15.5 p006 (v15-5-81G) i86
+\t (00:00:00) 
+
+\t (00:00:00) Opening existing drawing...
+\d (00:00:00) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/LQFP_G128.dra
+\t (00:00:00) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:00) trapsize 177
+\i (00:00:00) trapsize 207
+\i (00:00:00) trapsize 207
+\i (00:00:01) open 
+\i (00:00:10) fillin "DB15_V.dra"
+\t (00:00:10) Opening existing drawing...
+\i (00:00:10) trapsize 14
+\d (00:00:10) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/DB15_V.dra
+\i (00:01:41) open 
+\i (00:01:50) fillin "db15_P.dra"
+\t (00:01:50) Opening existing drawing...
+\i (00:01:50) trapsize 14
+\d (00:01:50) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/db15_P.dra
+\i (00:01:54) open 
+\i (00:02:01) fillin "DB15_A.dra"
+\t (00:02:01) Opening existing drawing...
+\i (00:02:01) trapsize 7
+\d (00:02:01) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/DB15_A.dra
+\i (00:02:03) open 
+\i (00:02:18) fillin "db15_P.dra"
+\t (00:02:18) Opening existing drawing...
+\i (00:02:18) trapsize 14
+\d (00:02:18) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/db15_P.dra
+\i (00:02:21) zoom in 
+\i (00:02:21) setwindow pcb
+\i (00:02:21) zoom in 0 170
+\i (00:02:21) trapsize 7
+\i (00:02:56) save_as 
+\i (00:03:00) fillin "db15_PV.dra"
+\t (00:03:01) Symbol 'db15_pv.psm' created.
+\i (00:03:01) roam start
+\i (00:03:01) roam x -64
+\i (00:03:01) roam y 16
+\i (00:03:01) roam x -32
+\i (00:03:01) roam y 16
+\i (00:03:01) roam x -32
+\i (00:03:01) roam x -32
+\i (00:03:01) roam y 16
+\i (00:03:01) roam x -16
+\i (00:03:01) roam y 16
+\i (00:03:01) roam x -16
+\i (00:03:01) roam y 16
+\i (00:03:01) roam end
+\i (00:03:02) delete 
+\i (00:03:04) color 
+\i (00:03:04) setwindow form.cvf_main
+\i (00:03:04) FORM cvf_main class_list Geometry
+\i (00:03:05) FORM cvf_main global_vis All Visible 
+\f (00:03:05) Change visibility of all classes?
+\i (00:03:06) fillin yes 
+\i (00:03:07) FORM cvf_main ok  
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom out 
+\i (00:03:09) setwindow pcb
+\i (00:03:09) zoom out -672 -5
+\i (00:03:09) trapsize 14
+\i (00:03:10) delete 
+\i (00:03:12) drag_start grid -87 849
+\i (00:03:13) drag_stop 474 660
+\i (00:03:13) pick grid 474 660
+\t (00:03:13) last pick:  475  650
+\t (00:03:13) No element found
+\i (00:03:13) drag_start grid 96 705
+\i (00:03:14) drag_stop 719 370
+\i (00:03:14) pick grid 722 370
+\t (00:03:14) last pick:  725  375
+\t (00:03:14) No element found
+\i (00:03:15) drag_start grid -526 457
+\i (00:03:15) drag_stop -107 294
+\i (00:03:15) pick grid -101 305
+\t (00:03:15) last pick:  -100  300
+\t (00:03:15) No element found
+\i (00:03:16) drag_start grid -1031 795
+\i (00:03:16) drag_stop -602 604
+\t (00:03:16) Line "Package Geometry/Assembly_Top"
+\i (00:03:16) pick grid -636 629
+\t (00:03:16) last pick:  -625  625
+\t (00:03:16) No element found
+\i (00:03:17) roam start
+\i (00:03:17) roam end
+\i (00:03:18) done 
+\i (00:03:33) show measure 
+\i (00:03:35) pick grid -1025 46
+\t (00:03:35) last pick:  -1025  50
+\i (00:03:56) pick grid 277 49
+\t (00:03:56) last pick:  275  50
+\i (00:04:09) done 
+\i (00:05:05) add line 
+\i (00:05:07) setwindow form.mini
+\i (00:05:07) FORM mini subclass SILKSCREEN_TOP 
+\i (00:05:12) FORM mini line_width 8 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) pick -1176 y -204 
+\t (00:06:04) last pick:  -1176  -204
+\i (00:06:12) pick 420 
+\t (00:06:12) last pick:  420  -204
+\i (00:06:18) pick l 196 
+\t (00:06:18) last pick:  420  196
+\i (00:06:25) pick l 304 
+\t (00:06:25) last pick:  420  304
+\i (00:06:30) pick -1176 
+\t (00:06:30) last pick:  -1176  304
+\i (00:06:40) pick l -204 
+\t (00:06:40) last pick:  -1176  -204
+\i (00:06:51) done 
+\i (00:06:53) show measure 
+\i (00:06:53) pick grid -1017 46
+\t (00:06:53) last pick:  -1025  50
+\i (00:06:54) pick grid -983 305
+\t (00:06:54) last pick:  -975  300
+\i (00:06:57) pick grid -1011 -199
+\t (00:06:57) last pick:  -1000  -200
+\i (00:06:58) pick grid -1019 49
+\t (00:06:58) last pick:  -1025  50
+\i (00:07:02) done 
+\i (00:07:05) add line 
+\i (00:07:12) pick -1176 y -196 
+\t (00:07:12) last pick:  -1176  -196
+\i (00:07:18) pick 420 
+\t (00:07:18) last pick:  420  -196
+\i (00:07:25) pick l 304 
+\t (00:07:25) last pick:  420  304
+\i (00:07:28) pick -1176 
+\t (00:07:28) last pick:  -1176  304
+\i (00:07:31) pick l -196 
+\t (00:07:31) last pick:  -1176  -196
+\i (00:07:33) done 
+\i (00:07:34) trapsize 13
+\i (00:07:34) trapsize 14
+\i (00:07:34) delete 
+\i (00:07:37) zoom in 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom in -811 60
+\i (00:07:37) trapsize 7
+\i (00:07:37) roam start
+\i (00:07:37) roam x -16
+\i (00:07:37) roam y 64
+\i (00:07:37) roam x -32
+\i (00:07:37) roam y 48
+\i (00:07:37) roam x -48
+\i (00:07:37) roam y 64
+\i (00:07:37) roam x -48
+\i (00:07:37) roam y 16
+\i (00:07:37) roam end
+\i (00:07:37) zoom in 
+\i (00:07:37) setwindow pcb
+\i (00:07:37) zoom in -1185 -200
+\i (00:07:37) trapsize 4
+\i (00:07:38) zoom in 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom in -1164 -206
+\i (00:07:38) trapsize 2
+\i (00:07:38) zoom out 
+\i (00:07:38) setwindow pcb
+\i (00:07:38) zoom out -1166 -206
+\i (00:07:38) trapsize 4
+\i (00:07:39) zoom out 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom out -1162 -207
+\i (00:07:39) trapsize 7
+\i (00:07:39) zoom out 
+\i (00:07:39) setwindow pcb
+\i (00:07:39) zoom out -1160 -215
+\i (00:07:39) trapsize 14
+\i (00:07:40) pick grid -1171 -216
+\t (00:07:40) last pick:  -1175  -225
+\t (00:07:40) Line "Package Geometry/Silkscreen_Top"
+\i (00:07:41) pick grid -1126 -267
+\t (00:07:41) last pick:  -1125  -275
+\t (00:07:41) No element found
+\i (00:07:42) done 
+\i (00:07:46) padeditdb 
+\i (00:07:47) pick grid -101 -2
+\t (00:07:47) last pick:  -100  0
+\i (00:07:48) padeditcur 
+\i (00:07:50) setwindow form.padedit
+\i (00:07:50) FORM padedit layers  
+\i (00:07:52) pse_exit
+\i (00:07:52) setwindow pcb
+\i (00:07:52) done 
+\i (00:08:00) status 
+\i (00:08:00) setwindow form.status
+\i (00:08:00) FORM status display  
+\i (00:08:02) FORM status display_fat_rats YES 
+\i (00:08:02) FORM status display_grid YES 
+\i (00:08:03) FORM status display_thermal YES 
+\i (00:08:03) FORM status display_endcaps YES 
+\i (00:08:03) FORM status display_enhance YES 
+\i (00:08:04) FORM status display_non_plated_holes YES 
+\i (00:08:04) FORM status display_plated_holes YES 
+\i (00:08:05) FORM status done  
+\i (00:08:07) setwindow pcb
+\i (00:08:07) save 
+\f (00:08:07) C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/db15_PV.dra: File Exists. Overwrite? 
+\i (00:08:08) fillin yes 
+\t (00:08:08) Symbol 'db15_pv.psm' created.
+\i (00:20:17) trapsize 12
+\i (00:20:17) trapsize 14
+\i (00:20:27) trapsize 12
+\i (00:20:27) trapsize 14
+\i (02:57:03) trapsize 13
+\i (02:57:03) trapsize 14
+\i (02:57:04) exit 

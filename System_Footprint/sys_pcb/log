@@ -1,0 +1,207 @@
+11-14-2002 tsk: Release 15.0-a002
+- The following PCR fixed
+		474160: added a new file for dsize.dra and dsize.psm
+			  as provided by the requester.
+- Uprev'ed all symbols to 15.0 level.
+
+11-07-2001 tsk  : Release 14.2
+- The following pcrs fixed.
+                 409109:  add 2 fsm files to pcb_lib in 14.2 
+
+		 Added fsm and dra symbols: ab00 and ab85.
+
+
+09-08-2000 tsk  : Release 14.0
+
+- The following pcrs fixed.
+
+		233639:Mismatch in chips and footprints in pin manes for some parts
+		335658:Missing pins and Extra pins
+
+
+		Added new footrints: pga84_sq  soj26_26 soj26_24 tsop26_24
+
+
+
+03-12-1999  tsk  : Release 13.6
+ 
+- Added template/sym_template.dra
+
+- The following pcrs fixed.
+		233640:Added new footrints
+
+              		clcc344	              lcc32	              soj20
+              		dip20	              mquad28	              sop44
+              		dip28	              pqfp52	              ssop56
+              		dip42_6	              pqfp80	              tqfp32
+ 
+			Added the pad: smd85rec13.pad
+
+
+		245094:Corrected sha_sot89 and sha_sot89msk ssn files and 
+			updated smd162by68.pad
+
+
+
+
+12-3-1997  tsk  : Release 12.1 
+- The following pcrs fixed.
+		190433:Added Thermal relief and Anti-pad information to inner 
+			layer of pads.
+		206052:Corrected the origin of SOIC20 to lie within the body.
+
+12-3-1996  tsk  : Release 12.0 P1
+		Following are the updates done in this release:
+- The following new symbols have been added.
+
+
+	dip28_4	    pga108     soj42      tsop26_3   tssop20
+
+	dip32_3	    pqfp100    sol20      tsop28_4   tssop24
+
+	dip36_6	    soic28     sop24      tsop32_4   zip40
+
+	dip52_9     soic32w    ssop14     tsop40_4
+
+	dip58_6	    soj26_20   ssop16     tsop50_4
+
+	dip64_3	    soj32      ssop20     tssop14
+
+	flat64	    soj36      ssop24     tssop16
+
+- The following pcrs fixed.
+
+
+		149209 PLCC and LCCS - bad padstack rotations
+  		170319 CAP400 symbol is wrong size
+  		173162 Allegro symbol sot23 has pins 1 and 2 swapped
+  		174776 soic symbols built incorrectly
+  		87055  pad smd162by68 missing from library in SUN platform
+  		106003 Need SOL16 footprint
+  
+
+
+03-21-1995	Yuet Wen : Release 10.1 P1
+		- A single Allegro symbol library, algroLib, is released in 10.1.
+		  This release also includes the contents of past allegrolib. 
+		  allegrolib is put to end of life.
+
+09-21-94  pk  : Release 10.0 P1
+         Following are the updates done in this release:
+
+	- All the files have been uprev'ed to 10.0.
+
+04-15-94  ldang/pk  : Release 8.1 P1
+         Following are the updates done in this release:
+
+	- The following new symbols have been added.
+
+	CLCC28		CLCC44		CLCC68		CLCC84		CPGA100_X
+
+	CPGA132		CPGA160_X	CPGA175		CPGA191_X	CPGA192_X
+
+	CPGA207		CPGA208		CPGA262		CPGA68		CPGA69
+
+	CPGA84_X	CPGA85_X	CQFP100		CQFP132		CQFP164
+
+	CQFP208_ALT	CQFP44_AMD	CQFP64_IDT	CQFP68_L	CQFP84
+
+	DIP28_4_AMD	DIP64_9		FLAT48		FLAT56		LCC52
+
+	LCC68		PGA108_BIT	PGA125		PGA144		PGA145_AMD
+
+	PGA156_X_TI	PGA168		PGA169		PGA175		PGA179
+
+	PGA68_SQ	PGA69		PQFP100R	PQFP120		PQFP132
+
+	PQFP160		PQFP164		PQFP196		PQFP208_CYP	PQFP44
+
+	PQFP64_TI	PQFP74_NEC	PQFP80_TI	SOIC48W		SOIC56W
+
+	SOJ24		SOJ26		SOJ26W		SOJ28		SOJ40
+
+	SPGA325		TQFP100		TSOP28F_TOS	TSOP28R_TOS	TSOP32_8
+
+	VQFP100		ZIP28		ZIP60_MOT	ZIP64_MOT			
+	The package dimensions of all the above symbols are in accordance with the
+	JEDEC-95 standards. In cases of symbols which were not found in the JEDEC
+	document, a manufacturer suffix has been added to distinguish them. Hence
+	the CQFP208_ALT package is from the Altera package data. When JEDEC comes
+	up with specifications for these packages, the symbols will be updated to
+	conform to that specification.
+
+	- The following new pads have been added.
+
+	PGA_SQ		SMD110REC19	SMD110REC23	SMD30_57	SMD30_96
+
+	SMD30REC14	SMD36REC12	SMD50REC12	SMD50REC19	SMD60REC19
+
+	SMD90REC19	SOJ
+
+	- All the quad flat packages have been assumed to be used with an L bend
+	  for the pins. The pad sizes for these symbols have been calculated based
+	  on this assumption. The pad sizes for the rest of the new symbols are
+	  in accordance with ANSI/IPC-SM782A recommendations.
+
+	- All the PGA symbols have been updated so that it shows the correct NC
+	  drill figure.
+
+	- The origin in case of all Surface Mount symbols has been changed to be
+	  at the center of the package. This enables easy mirroring of packages to
+	  the bottom side of the pc-board. The origin in case of PGA pads, has been
+	  fixed at Pin 1.
+
+	- The pin row O has been changed to P in case of PGA132.
+
+10-04-93  ldang/pk  : Release 8.0 P1
+         This is the first release of the complete Allegro symbol library.
+
+         - The following symbols hve been created to be in accordance with
+           the JEDEC standard (following JEDEC PUBLICATION No. 95) .
+
+           AT_35UX     CB298     CB417    DIP10_2    DO14     DO15
+
+           DO201AA     DO201AB   DO201AC  DO201AD    DO203AA  DO203AB
+
+           DO204AA     DO204AH   DO204AP  DO204AR    DO27A    DO34
+
+           DO7         GI_AXIAL7B         GI_AXIAL9  GI_BR1W  HPAC_100
+
+           MOT145A     MOT17     MOT193   MOT194_01  MOT194_04  
+ 
+           MOT211      MOT221A   MOT244   MOT303     MOT305A  MOT309A_02
+
+           MOT309A_03  MOT317    MOT317A  MOT332     MOT332A  MOT339
+
+           MOT357C     MOT361A   MOT60    MPAK       MPAK4    NATL_M
+
+           NEC_SP      NS_H02A   R70      SC59       SC70     SOD57
+
+           SOD80       SOD81     SOD87    SOT121     SOT123   SOT143
+
+           SPAK        TO117     TO127    TO204AD    TO204AE  TO205AF
+
+           TO209AC     TO213AA   TO218AA  TO218AC    TO220AA  TO220AC
+
+           TO225AA     TO236     TO236AA  TO236AB    TO237    TO247AC
+
+           TO247AE     TO250AA   TO251AA  TO252AA    TO254AA  TO48
+
+           TO59        TO64      TO66     TO72       TO77     TO78
+
+           TO89        TO92VAR   TOSH_2_8H1A         UNIT_BODY_A
+
+           UNIT_BODY_B
+
+        - The following allegro shapes represent diodes and transistors which
+          get fixed to the board, while the anode or the base and the emitter
+          is on the top of the device ( not in the same plane as that of the
+          board ). Since Allegro requires pads for all pins on the symbol to
+          be shown on the same plane, certain pins of these symbols are not
+          shown. These symbols are to be modified according to the customer's
+          requirements.
+ 
+           DO203AA    DO203AB    R70    TO48    TO59     TO64    TO209AC
+
+	- The rest of the symbols have been taken from the base Allegro symbol 
+	  library.

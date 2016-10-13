@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : POWERS020-PAD-S.dra                           )
+(    Software Version : 16.6-2015S071                                 )
+(    Date/Time        : Tue Oct 11 20:54:28 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = E:/CadenceLib/pad
+    Name      = powers020-pad-s.ssm
+    User      = HUIYUAN-LZJ
+    Machine   = XXXLZJXXX
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

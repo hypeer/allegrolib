@@ -1,0 +1,91 @@
+\t (00:00:00) allegro_librarian 15.5 p006 (v15-5-81G) i86
+\t (00:00:00) 
+
+\t (00:00:00) Opening existing drawing...
+\d (00:00:00) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/db15_PV.dra
+\i (00:00:00) trapsize 12
+\i (00:00:00) trapsize 13
+\i (00:00:00) trapsize 14
+\i (00:00:00) trapsize 14
+\i (00:00:01) open 
+\i (00:00:03) fillin "lqfp48.dra"
+\t (00:00:03) Opening existing drawing...
+\t (00:00:03) Grids are drawn 6.40, 6.40 apart for enhanced viewability.
+\i (00:00:03) trapsize 266
+\d (00:00:03) Database opened: C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/lqfp48.dra
+\i (00:00:05) roam start
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y 48
+\i (00:00:05) roam y 16
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y 16
+\i (00:00:05) roam x 16
+\i (00:00:05) roam y 16
+\i (00:00:05) roam end
+\i (00:00:11) padeditdb 
+\i (00:00:11) pick grid 163.62 114.92
+\t (00:00:11) last pick:  163.60  114.90
+\i (00:00:12) padeditcur 
+\i (00:00:14) setwindow form.padedit
+\i (00:00:14) FORM padedit layers  
+\i (00:00:15) FORM padedit grid row top 
+\i (00:00:19) FORM padedit grid row soldermask_top 
+\i (00:00:21) FORM padedit grid row pastemask_top 
+\i (00:00:24) FORM padedit parameters  
+\i (00:00:25) pse_exit
+\i (00:00:27) setwindow pcb
+\i (00:00:27) done 
+\i (00:00:39) setwindow form.mini
+\i (00:00:39) FORM mini subclass SOLDERMASK_TOP 
+\i (00:00:40) FORM mini subcolor 0 
+\i (00:00:40) FORM mini subcolor 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) show measure 
+\i (00:01:18) pick grid 165.74 106.41
+\t (00:01:18) last pick:  165.70  106.40
+\i (00:01:19) pick grid 171.60 88.32
+\t (00:01:19) last pick:  171.60  88.30
+\i (00:01:20) done 
+\i (00:01:23) replace padstack 
+\i (00:01:24) setwindow form.mini
+\i (00:01:24) FORM mini oldname_browse  
+\f (00:01:24) Select a padstack:
+\i (00:01:26) fillin "Smd60x12"
+\i (00:01:27) FORM mini newname_browse  
+\f (00:01:27) Select a padstack:
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\e (00:01:27) name too long
+\i (00:01:36) fillin "Smd60x11"
+\w (00:01:36) Scaled value has been rounded off.
+\i (00:01:38) FORM mini replace  
+\i (00:01:39) setwindow pcb
+\i (00:01:39) done 
+\t (00:01:39) Performing DRC. Please wait...
+\t (00:01:39) No DRC errors detected.
+\i (00:01:41) save 
+\f (00:01:41) C:/Cadence/SPB_15.5/share/pcb/pcb_lib/symbols/lqfp48.dra: File Exists. Overwrite? 
+\i (00:01:42) fillin yes 
+\t (00:01:42) Symbol 'lqfp48.psm' created.
+\i (00:02:10) exit 

@@ -1,0 +1,53 @@
+\t (00:00:00) allegro 16.6-2015 S071 (v16-6-112FT) Windows 32
+\t (00:00:00)     Journal start - Tue Oct 11 20:43:30 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=4636 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe E:\CadenceLib\allegro\POWERSO20.dra
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:00) Opening existing design...
+\d (00:00:00) Design opened: E:/CadenceLib/allegro/POWERSO20.dra
+\i (00:00:00) trapsize 1784
+\i (00:00:00) trapsize 1735
+\i (00:00:00) trapsize 1793
+\i (00:00:00) trapsize 1845
+\i (00:00:00) trapsize 2289
+\i (00:00:01) generaledit 
+\i (00:00:01) zoom out 1 
+\i (00:00:01) setwindow pcb
+\i (00:00:01) zoom out 4.1687 -7.0782
+\i (00:00:01) trapsize 3690
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 6.1845 7.6537
+\i (00:00:02) trapsize 1845
+\i (00:00:02) zoom in 1 
+\i (00:00:02) setwindow pcb
+\i (00:00:02) zoom in 6.1846 7.6537
+\i (00:00:02) trapsize 923
+\i (00:00:03) zoom out 1 
+\i (00:00:03) setwindow pcb
+\i (00:00:03) zoom out 4.9483 -1.4434
+\i (00:00:03) trapsize 1845
+\t (00:00:06) >>EDA365 Skill V2.3 º”‘ÿ≥…π¶!
+\i (00:00:13) pick grid 6.9782 -2.5321
+\t (00:00:13) last pick:  7.0000 -2.5000
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 0.9257 -2.5690
+\i (00:00:14) trapsize 3690
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 7.8083 11.7871
+\i (00:00:15) trapsize 1845
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 7.8084 11.7871
+\i (00:00:15) trapsize 923
+\i (00:00:16) zoom out 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom out 4.9113 5.1811
+\i (00:00:16) trapsize 1845
+\i (00:01:30) pick grid 18.3818 0.6417
+\t (00:01:30) last pick:  18.4000 0.6000
+\i (00:01:38) exit 
+\t (00:01:38)     Journal end - Tue Oct 11 20:45:08 2016

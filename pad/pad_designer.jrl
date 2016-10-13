@@ -1,0 +1,22 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Tue Oct 11 20:54:36 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=7064 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:08) setwindow form.padedit
+\i (00:00:08) pse_open 
+\i (00:00:16) fillin "powerso36-pad.pad"
+\i (00:00:20) FORM padedit layers  
+\i (00:00:22) FORM padedit grid row begin_layer 
+\i (00:00:33) FORM padedit shapebutton  
+\i (00:00:44) fillin "Powers020-pad-p"
+\i (00:00:45) FORM padedit grid row pastemask_top 
+\i (00:00:46) FORM padedit shapebutton  
+\i (00:00:48) fillin "Powers020-pad-p"
+\i (00:00:49) FORM padedit grid row soldermask_top 
+\i (00:00:50) FORM padedit shapebutton  
+\i (00:00:53) fillin "Powers020-pad-s"
+\i (00:00:57) pse_save_as 
+\i (00:01:02) fillin "powerso20-pad.pad"
+\i (00:01:03) pse_exit
+\t (00:01:03)     Journal end - Tue Oct 11 20:55:39 2016

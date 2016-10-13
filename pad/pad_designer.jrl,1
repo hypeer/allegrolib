@@ -1,0 +1,13 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Mon Oct 10 10:49:08 2016
+\t (00:00:00)         Host=XXXLZJXXX User=HUIYUAN-LZJ Pid=6340 CPUs=4
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:06) setwindow form.padedit
+\i (00:00:06) pse_open E:/CadenceLib/pad/pad1r50cir1r00.pad 
+\i (00:00:11) FORM padedit layers  
+\i (00:00:12) FORM padedit crossbox YES 
+\i (00:00:20) pse_save 
+\i (00:00:21) fillin yes 
+\i (00:00:24) pse_exit
+\t (00:00:24)     Journal end - Mon Oct 10 10:49:32 2016
